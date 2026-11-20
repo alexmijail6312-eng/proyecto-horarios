@@ -1,0 +1,21 @@
+id,nombre,carrera,grupo,docente,sesiones,matricula
+M01,Materia 1,Sistemas,G1,D03,3,25
+M02,Materia 2,Industrial,G2,D05,2,60
+M03,Materia 3,Civil,G3,D08,2,50
+M04,Materia 4,Sistemas,G4,D04,2,60
+M05,Materia 5,Sistemas,G1,D01,2,50
+M06,Materia 6,Industrial,G2,D10,2,60
+M07,Materia 7,Civil,G3,D05,3,35
+M08,Materia 8,Sistemas,G4,D10,2,45
+M09,Materia 9,Sistemas,G1,D01,2,20
+M10,Materia 10,Industrial,G2,D11,3,20
+M11,Materia 11,Civil,G3,D07,3,35
+M12,Materia 12,Sistemas,G4,D07,3,20
+M13,Materia 13,Sistemas,G1,D09,2,60
+M14,Materia 14,Industrial,G2,D08,3,35
+M15,Materia 15,Civil,G3,D06,2,35
+M16,Materia 16,Sistemas,G4,D08,2,20
+M17,Materia 17,Sistemas,G1,D07,3,25
+M18,Materia 18,Industrial,G2,D03,3,40
+M19,Materia 19,Civil,G3,D02,3,45
+M20,Materia 20,Sistemas,G4,D12,3,70

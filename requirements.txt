@@ -1,0 +1,3 @@
+# Opcional: solo para los graficos de la experimentacion y del notebook.
+# El sistema, la interfaz visual y las pruebas funcionan solo con la biblioteca estandar de Python 3.8 o superior.
+matplotlib>=3.5

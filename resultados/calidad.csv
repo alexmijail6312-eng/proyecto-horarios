@@ -1,0 +1,16 @@
+tamano,metodo,sesiones,resueltos_pct,conflictos,ventanas,concentracion,separacion,penalizacion,tiempo
+pocas,Manual (referencia),18,100.0,0.0,0.0,4.0,10.5,49.085,0.0
+pocas,PSR,18,100.0,0.0,9.0,0.0,6.0,68.665,0.006
+pocas,Genetico,18,100.0,0.0,0.0,0.5,1.5,13.42,0.246
+pocas,Genetico + recocido,18,100.0,0.0,0.0,0.0,0.0,9.635,0.335
+pocas,Genetico + hill climbing,18,100.0,0.0,0.0,0.0,1.0,10.885,0.33
+medianas,Manual (referencia),50,100.0,0.0,3.0,15.0,29.0,156.71,0.0
+medianas,PSR,50,100.0,0.0,23.0,3.5,13.5,191.16,0.036
+medianas,Genetico,50,100.0,0.0,4.0,3.0,11.0,87.43,0.713
+medianas,Genetico + recocido,50,100.0,0.0,1.0,1.5,4.0,52.21,1.222
+medianas,Genetico + hill climbing,50,100.0,0.0,1.0,1.5,7.5,59.53,1.222
+muchas,Manual (referencia),98,100.0,0.0,10.0,29.5,57.5,320.78,0.0
+muchas,PSR,98,100.0,0.0,50.0,4.0,33.5,398.93,0.127
+muchas,Genetico,98,100.0,0.0,20.0,6.0,30.0,247.465,2.038
+muchas,Genetico + recocido,98,100.0,0.0,1.0,2.5,17.5,105.115,4.029
+muchas,Genetico + hill climbing,98,100.0,0.0,3.5,3.0,19.5,127.7,3.973

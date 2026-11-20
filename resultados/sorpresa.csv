@@ -1,0 +1,4 @@
+tamano,conflictos_tras_cambio,a_resueltos_pct,a_tiempo,a_nodos,a_movidas,psr_tiempo,psr_movidas,replanificacion_tiempo
+pocas,2.0,100.0,0.001,3.0,2.0,0.006,18.5,0.341
+medianas,2.0,100.0,0.003,3.0,2.0,0.029,48.0,1.258
+muchas,2.0,100.0,0.009,3.0,2.0,0.128,98.5,4.156
